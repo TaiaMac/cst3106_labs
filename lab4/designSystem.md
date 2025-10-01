@@ -24,17 +24,20 @@ This documentation provides a clear and simplified overview of the design system
 ### Header  
 - Background: Secondary background (#F5F5F5)  
 - Title: Large serif font, centered  
-- Subtitle: Bold tagline under title    
+- Subtitle: Bold tagline under title   
+- ![Header Mock-up](C:\Users\tmaclaurin\Pictures\Screenshots\Screenshot 2025-10-01 185522.png)
 
 ### Navigation  
 - Background: Dark grey (#333333)  
 - Links: White text, bold  
 - Hover effect: Accent underline (#f0acc3ff)  
+- ![Header Mock-up](C:\Users\tmaclaurin\Pictures\Screenshots\Screenshot 2025-10-01 185534.png)
 
 ### About Section
 - Layout: Profile picture + about text side by side  
 - Profile picture: Circle (150x170px), black border  
 - Text: Simple paragraph with heading  
+- ![Header Mock-up](C:\Users\tmaclaurin\Pictures\Screenshots\Screenshot 2025-10-01 185930.png)
 
 ### Project Cards
 - Layout: Image + Title + Description  
@@ -43,8 +46,7 @@ This documentation provides a clear and simplified overview of the design system
 
 ### Footer
 - Background: Secondary background (#F5F5F5)  
-- Text: Small, centered, light style  
-
-### Footer  
+- Text: Small, centered, light style   
 - Design: Centered text, small font size, light grey (`#F5F5F5`) background  
+- ![Header Mock-up](C:\Users\tmaclaurin\Pictures\Screenshots\Screenshot 2025-10-01 185954.png)
    
