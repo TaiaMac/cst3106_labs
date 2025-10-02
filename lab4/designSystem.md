@@ -6,12 +6,12 @@ This documentation provides a clear and simplified overview of the design system
 
 ## 1. Color Palette  
 
-- Primary Color: `#fc81ebff`  
-- Text Color: `#050505ff`  
-- Border Color: `#090808ff`  
-- Background Color: `#FFFFFF`  
-- Secondary Background Color: `#F5F5F5`  
-- Accent Color: `#f0acc3ff`  
+- primary-color: rgb(16, 6, 15);
+- text-color: #050505ff;
+- border-color: #090808ff;
+- background-color: #FFFFFF;
+- secondary-bg: #F5F5F5;
+- accent-color: #f0acc3ff;
 
 ## 2. Typography  
 
@@ -25,19 +25,19 @@ This documentation provides a clear and simplified overview of the design system
 - Background: Secondary background (#F5F5F5)  
 - Title: Large serif font, centered  
 - Subtitle: Bold tagline under title   
-- ![Header Mock-up](C:\Users\tmaclaurin\Pictures\Screenshots\Screenshot 2025-10-01 185522.png)
+![Header Mock-up](C:\Users\tmaclaurin\Pictures\Screenshots\Header.png)
 
 ### Navigation  
 - Background: Dark grey (#333333)  
 - Links: White text, bold  
-- Hover effect: Accent underline (#f0acc3ff)  
-- ![Header Mock-up](C:\Users\tmaclaurin\Pictures\Screenshots\Screenshot 2025-10-01 185534.png)
+- Hover effect: Accent underline (#f0acc3ff)
+![Navigation Mock-up](C:\Users\tmaclaurin\Pictures\Screenshots\Navigation.png)
 
 ### About Section
 - Layout: Profile picture + about text side by side  
 - Profile picture: Circle (150x170px), black border  
 - Text: Simple paragraph with heading  
-- ![Header Mock-up](C:\Users\tmaclaurin\Pictures\Screenshots\Screenshot 2025-10-01 185930.png)
+![Section Mock-up](C:\Users\tmaclaurin\Pictures\Screenshots\Section.png)
 
 ### Project Cards
 - Layout: Image + Title + Description  
@@ -48,5 +48,5 @@ This documentation provides a clear and simplified overview of the design system
 - Background: Secondary background (#F5F5F5)  
 - Text: Small, centered, light style   
 - Design: Centered text, small font size, light grey (`#F5F5F5`) background  
-- ![Header Mock-up](C:\Users\tmaclaurin\Pictures\Screenshots\Screenshot 2025-10-01 185954.png)
+![Footer Mock-up](C:\Users\tmaclaurin\Pictures\Screenshots\Footer.png) 
    
