@@ -16,7 +16,7 @@ export default class YatzyGame {
     this.currentRound = 1;
     this.engine = new YatzyEngine();
     this.players.forEach(p => this.scores[p] = structuredClone(this.engine.scoreTable));
-    console.log("🎲 New Yatzy game started!");
+    console.log("New Yatzy game started!");
   }
 
   rollDice() {
@@ -51,7 +51,7 @@ export default class YatzyGame {
     total: this.scores[p].total_score || 0
   }));
   totals.sort((a, b) => b.total - a.total);
-  console.log(`🏁 Game Over! Winner: ${totals[0].player} with ${totals[0].total} points!`);
+  console.log(`Game Over! Winner: ${totals[0].player} with ${totals[0].total} points!`);
   } 
 
   getCurrentPlayer() {
