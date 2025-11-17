@@ -104,8 +104,8 @@ Designed for speed and clarity.
 3. Admin removes patient from list if needed  
 4. Admin uses color-coded indicators to prioritize
 
-![colours](image-1.png)
-![form](image.png)
+![colours](colours.png)
+![form](form.png)
 
 ## Team Information
 **Taia Maclaurin**
