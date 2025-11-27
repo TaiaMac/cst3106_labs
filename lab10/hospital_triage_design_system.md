@@ -15,7 +15,7 @@ The Hospital Triage App is designed to create an efficient, user-friendly flow f
 - **Font Weights:** Light (300), Regular (400)  
 - **Reasoning:** Open Sans provides a softer, accessible reading experience for longer text.
 
-### Why These Fonts?
+### Why These Fonts
 - Web-safe and mobile-friendly  
 - Clear distinction between headings and body text  
 - Maximizes readability in an emergency context  
@@ -23,7 +23,7 @@ The Hospital Triage App is designed to create an efficient, user-friendly flow f
 
 ## 2. Colour Palette
 ### User Interface Colours (Patient Page)
-- **Blue** — #3A7BDB — Primary buttons, headings  
+- **Blue** — #2776edff — Primary buttons, headings  
 - **Light Blue** — #DCEBFA — Background areas, cards  
 - **Neutral Grey** — #F2F2F2 — Page background, input fields  
 - **Dark Text Grey** — #333333 — Text for readability
@@ -105,7 +105,9 @@ Designed for speed and clarity.
 4. Admin uses color-coded indicators to prioritize
 
 ![colours](colours.png)
-![form](form.png)
+![form1](form1.png)
+![form2](form2.png)
+![form3](form3.png)
 
 ## Team Information
 **Taia Maclaurin**
